@@ -1,4 +1,4 @@
-# Plant-disease-Detection-for-sustainable-agriculture
+# Plant-Disease-Detection-for-Sustainable-Agriculture
 Overview:
 
 plant health is crucial for sustainable agriculture and food security. Manual identification of plant diseases is time-consuming and prone to errors. This project uses a machine learning model to identify plant diseases from images, providing a fast, accurate, and scalable solution for farmers and agricultural professionals.
